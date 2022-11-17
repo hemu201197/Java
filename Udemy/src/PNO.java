@@ -1,7 +1,10 @@
-public class CheckNumber {
+public class PNO {
+    public static void main(String[] args) {
+       postiveNegativeZero(3);
+    }
 
     public static void postiveNegativeZero(int Number){
-        int number = -3;
+        int number = 4;
         if (number > 0) {
             System.out.println("Postive");
         }
