@@ -24,8 +24,6 @@ public class SumScan {
         }
         some.close();
         System.out.println("Sum of all numbers is "+sum);
-
     }
-
-    //Changes done in IntelliJg
+    //Changes in remote
 }
